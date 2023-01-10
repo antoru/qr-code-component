@@ -1,0 +1,22 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+//fonts
+$font:'Outfit', sans-serif;
+
+// colors
+$blue: #2C7DFA;
+$blueShade: #3685FF;
+$darkNavy :#1F314F;
+$grey: #7D889E;
+$lightGrey: #D5E1EF;
+
+$backgroundPage: #D5E1EF;
+
+///breakpoint
+$breakpoint-desktop-min: 768px;
+$breakpoint-mobile-max: 767px;
+
+// @media(min-width:$breakpoint-desktop-min){}
+// @media(max-width:$breakpoint-mobile-max){}
